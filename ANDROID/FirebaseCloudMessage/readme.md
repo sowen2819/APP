@@ -25,6 +25,7 @@
   8. Project 선택
   9. FirebaseCloudMessage/app/에 google-services.json 추가 [ FirebaseCloudMessage/app/google-services.json ]
   10. gradle에 FCM_lib추가
+  <pre>
       - 추가시 app수준의 Gradle이
       dependencies {
           implementation fileTree(dir: 'libs', include: ['*.jar'])
@@ -51,4 +52,5 @@
           implementation 'com.google.firebase:firebase-core:16.0.1'
       }
       
-      이렇게 바꿔줘야 에러가 나지 
+      이렇게 바꿔줘야 에러가 나지않음
+      </pre>
