@@ -11,6 +11,6 @@
   - [FCM 홈페이지](https://firebase.google.com/docs/cloud-messaging/android/client)
 
 # 설정 방법
-  - (console)[https://console.firebase.google.com/] 접속
+  - [console](https://console.firebase.google.com/) 접속
   - 프로젝트 추가
   
