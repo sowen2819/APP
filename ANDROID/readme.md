@@ -11,7 +11,7 @@
   ...
   >
  < /application >
-< /code >
+</code>
 </pre>
 # ERROR
 - x86 emulation currently requires hardware acceleration!
