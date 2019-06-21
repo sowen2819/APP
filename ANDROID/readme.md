@@ -4,14 +4,14 @@
  - internet 권한
 <pre>
 <code>
-<uses-permission android:name="android.permission.INTERNET" />
-<application
+< uses-permission android:name="android.permission.INTERNET" / >
+< application
   ...
   android:usesCleartextTraffic="true"
   ...
- >
- </application>
-</code>
+  >
+ < /application >
+< /code >
 </pre>
 # ERROR
 - x86 emulation currently requires hardware acceleration!
