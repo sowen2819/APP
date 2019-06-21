@@ -3,6 +3,7 @@
  - 메인스레드는 View만 관리하고 나머지 모두 Thread( httpRequest 등.. )처리한다.
  - internet 권한
 <pre>
+<code>
 <uses-permission android:name="android.permission.INTERNET" />
 <application
   ...
@@ -10,6 +11,7 @@
   ...
  >
  </application>
+</code>
 </pre>
 # ERROR
 - x86 emulation currently requires hardware acceleration!
