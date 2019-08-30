@@ -1,6 +1,7 @@
 # APNs 서버 인증 방식
  - 인증서 : .p12인증서는 1년에 한 번씩 갱신 필요.
- - 인증키 : .p8키는 갱신 불필요.
+ - 인증키 : .p8키는 갱신 불필요. 
+   - GroupId와 KeyId는 기억해둔다.
 
 # FushMessage 수신
  - AppDelegate.swift 수정
