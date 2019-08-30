@@ -8,5 +8,5 @@
  - APP이 백그라운드에 있을 경우는 Push가 잘 오지만 포그라운드에서는 Push가 오지 않는 현상이 생김.
  - 예제소스에 몇 가지 코드를 추가해주니 잘 동작함.
 
-
- 
+# Notification
+ - IOS simulator에서는 Notification 알람 테스트를 할 수 없다. ( [StackOverflow](https://stackoverflow.com/questions/1080556/how-can-i-test-apple-push-notification-service-without-an-iphone) )
