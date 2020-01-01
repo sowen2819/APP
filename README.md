@@ -6,8 +6,15 @@
  - 운영정책
  - 도움말
  - 오픈소스 라이선스
- 
- 
+ - FG 상태
+  - 핸드폰 잠금상태
+ - BG 상태
+  - 핸드폰 잠금상태
+  - 절전모드 
+  - Doze 상태
+  - App standby 상태
+
+
 # FCM Push
  - foreground Push
  - background Push
